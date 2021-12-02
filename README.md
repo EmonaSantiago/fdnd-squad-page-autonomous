@@ -4,7 +4,10 @@
 
 ## Beschrijving
 <!-- Voeg een link toe naar Github Pages 🌐--> https://teambank.student.fdnd.nl
-<!-- Voeg een mooie poster visual toe 📸 --> <img width="1440" alt="Schermafbeelding 2021-11-08 om 20 53 33" src="https://user-images.githubusercontent.com/90447045/140809911-b741b45d-4cca-41d9-8aa7-9872e41a75dd.png"><img width="1440" alt="Schermafbeelding 2021-11-08 om 21 04 38" src="https://user-images.githubusercontent.com/90447045/140810250-c1ab3a8c-8a2b-4c10-a509-2b5724710423.png">
+<!-- Voeg een mooie poster visual toe 📸 --> Het doel van dit project is om in teamverband een squadpage te realiseren. Op deze squadpage worden alle studenten van het eerste jaar van FDND geïntroduceerd. Wanneer je de website opent krijg je een bank te zien met alle studenten eromheen. Je kunt op een student klikken om een popup te krijgen met een link die verwijst naar de visitekaart van die student. Verder hebben we ook een lijst van studenten met persoonlijke informatie om op een andere manier bij de visitekaartjes te komen. Ook kun je deze lijst rangschikken op team 1, 2 en 3 om de desbetreffende teamleden te zien.
+
+
+<img width="1440" alt="Schermafbeelding 2021-11-08 om 20 53 33" src="https://user-images.githubusercontent.com/90447045/140809911-b741b45d-4cca-41d9-8aa7-9872e41a75dd.png"><img width="1440" alt="Schermafbeelding 2021-11-08 om 21 04 38" src="https://user-images.githubusercontent.com/90447045/140810250-c1ab3a8c-8a2b-4c10-a509-2b5724710423.png">
 
 De squadpage is een manier om het FDND team te laten zien. Op de page wordt er ook wel de studenten van FDND (2021-2022) gepresenteerd. De klas is een chillen plek vandaar de bank. De studenten die chillen bij de bank. Met een leuke animatie efect als je op een student met je muis langs gaat. Druk op een student, dan komt er een pop up tevoorschijn met een link naar hun visite kaartje. Naar beneden scrollen is ook een optie. Onderin de bank vind je dan alle studenten in kaartjes. 
 
